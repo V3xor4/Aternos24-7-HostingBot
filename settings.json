@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Epstein",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "EconomyMinecraft.aternos.me:38358",
+    "port": 38358,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "We love Epstein!",
+        "Rest in peace my granny she got hit by a bazooka now i think about her everytime i hit the hoogah",
+        "I like to rape little kids!"
       ]
     },
     "chat-log": true,
