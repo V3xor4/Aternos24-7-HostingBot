@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EconomyMinecraft.aternos.me:38358",
+    "ip": "EconomyMinecraft.aternos.me",
     "port": 38358,
     "version": "",
     "try-creative": false
